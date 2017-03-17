@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Base.AppTheme" parent="Theme.AppCompat.Light.NoActionBar"/>
+
+    <style name="Base.AppTheme.Translucent" parent="AppTheme"/>
+
+    <style name="AppTheme" parent="Base.AppTheme"/>
+
+    <style name="AppTheme.Translucent" parent="Base.AppTheme.Translucent"/>
+
+    <style name="AppTheme.Splash" parent="AppTheme.Translucent">
+        <item name="android:windowBackground">@drawable/bg_splash</item>
+    </style>
+</resources>
